@@ -9,3 +9,12 @@
 
 <img width="1802" height="858" alt="image" src="https://github.com/user-attachments/assets/9a587606-4d9f-4dec-ae64-fb15767cb62e" />
 В поле ввода напишите bigquery-public-data -- тут лежит будущий датасет credit_card_default
+
+
+
+#Задание 5
+1. Файл [Exam5.ipynb] загрузить ключ доступа кагл
+2.  <img width="1477" height="770" alt="image" src="https://github.com/user-attachments/assets/657d4a09-200d-4957-90cb-0337c7e599b9" />
+
+
+Далее в бигквери заранее нужно создать проект датасет и таблицу, далее туда из колаба будут загружены данные
